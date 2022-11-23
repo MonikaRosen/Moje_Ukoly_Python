@@ -1,0 +1,12 @@
+leden	160
+unor	140
+brezen	168
+duben	160
+kveten	168
+cerven	160
+cervenec	168
+srpen	152
+zari	152
+rijen	160
+listopad	168
+prosinec	152
